@@ -1,5 +1,5 @@
-damaged_cars_detector
-deep learning project about examining images of cars and detect the their damages
+damaged_cars_detector:
+deep learning project about examining images of cars and detect their damages
 
 
 # Damaged Cars Detector
