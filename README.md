@@ -7,7 +7,17 @@ In car industry or any other business related cars, there have been always the n
 
 
 # Data Description
-our data are collected from kaggle and it is about 2000+ images of fine or damaged cars
+Our data are collected from kaggle, and it is about 2000+ images of fine or damaged cars:
+ * [Car damage detection](https://www.kaggle.com/anujms/car-damage-detection)
+ * [Coco Car Damage Detection Dataset](https://www.kaggle.com/lplenka/coco-car-damage-detection-dataset)
+ * [car damage](https://www.kaggle.com/mohitagarwal816/car-damage)
 
 # Tools
-* TBD.
+* matplotlib
+* seaborn
+* pandas
+* numpy
+* pickle
+* sklearn
+* keras
+* tensorflow
